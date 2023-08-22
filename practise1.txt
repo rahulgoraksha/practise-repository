@@ -1,0 +1,5 @@
+git init 
+git pull
+git push
+git merge
+git commit -m "added changes"
